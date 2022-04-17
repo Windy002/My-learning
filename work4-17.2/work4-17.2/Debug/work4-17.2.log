@@ -1,0 +1,5 @@
+﻿  test.c
+E:\C语言\Vs2019\work4-17.2\work4-17.2\test.c(207,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\C语言\Vs2019\work4-17.2\work4-17.2\test.c(208,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\C语言\Vs2019\work4-17.2\work4-17.2\test.c(209,64): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  work4-17.2.vcxproj -> E:\C语言\Vs2019\work4-17.2\Debug\work4-17.2.exe
